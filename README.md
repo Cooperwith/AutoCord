@@ -35,6 +35,7 @@ The script provides these options:
 * --help : Show all available commands and usage details.
 
     ```python auto.py --help```
+  
 ##Contributing
 
 If you encounter bugs or want to suggest features, open an issue on GitHub. Pull requests are welcome. ⭐ the project if you find it useful!
