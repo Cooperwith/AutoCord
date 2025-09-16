@@ -16,7 +16,7 @@ This Python script automates sending messages to a Discord channel using content
 
 Run the script with:
 
-    ```bash python auto.py```
+    python auto.py
     
 During execution, you’ll be prompted to specify the duration in seconds between each message and the sleep interval after each cycle.
 
